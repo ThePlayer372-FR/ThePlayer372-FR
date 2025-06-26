@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m ThePlayer372
+
+## 💼 About Me
+- 👨‍💻 Developer passionate about technology and code quality
+- 🐍 Experienced with **Python**, **PHP**, **JavaScript**, and **Docker**
+- 🛡️ Enthusiastic about **cybersecurity**
+
+## 🏅 Achievements
+- 🥉 2024: Bronze medal at Olicyber
+- 🥈 2025: Silver medal at Olicyber
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Pagaria-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrea-pagaria/)
 
 <!--
-**ThePlayer372-FR/ThePlayer372-FR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you want to feature your projects here in the future, just let me know!
 -->
